@@ -4,7 +4,7 @@ Optimization algorithms (GM, BFGS, SGM) for digit pattern recognition using MATL
 
 ## 📌 Project Context
 
-Developed for the *Unconstrained Optimization* course in the **Bachelor's Degree in Data Science and Engineering** at **Universitat Politècnica de Catalunya (UPC)**, this project implements and compares optimization methods for training a single-layer neural network (SLNN) to recognize handwritten digits.
+Developed for the *Mathematical Optimization* course in the **Bachelor's Degree in Data Science and Engineering** at **Universitat Politècnica de Catalunya (UPC)**, this project implements and compares optimization methods for training a single-layer neural network (SLNN) to recognize handwritten digits.
 
 ## 📊 Problem Definition
 - **Task:** Classify blurred digits (0-9) using SLNN
