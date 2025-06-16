@@ -30,16 +30,3 @@ Three optimization methods were implemented and compared:
 3. **Stochastic Gradient Method (SGM)**
    - Random direction selection
    - Computationally efficient per iteration
-
-## 🔍 Key Findings
-- **Convergence Analysis:**
-  - SGM showed fastest local convergence (lowest tex/niter)
-  - BFGS achieved best global convergence (100% cases)
-  - Optimal λ = 0.01 balances accuracy and convergence
-
-- **Accuracy Results:**
-  - Best test accuracy: **99.8%** (SGM with λ=0)
-  - Digit "8" most challenging (97.0% accuracy)
-  - Digits "1", "4", and "7" achieved 100% accuracy
-
-## 📂 Repository Structure
